@@ -5,4 +5,5 @@ To build Spherix, download and install the latest [C toolchain](https://github.c
 Copy ```Spherix.8xp``` from the ```bin``` folder to either CEmu or  TI-Connect CE. From the homescreen of the calculator, run ```Asm(prgmSpherix)```.
 ## Controls
 Use the arrow keys to move the tilemap around
+
 Press ```[CLEAR]``` to exit the program
